@@ -1,0 +1,7 @@
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test7.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test10.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test11.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test13.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test15.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test16.jpg
+/media/jinesh/ACB6A202B6A1CCE0/Academics/8thSemester/CNN/test_data/test17.jpg
